@@ -6,7 +6,7 @@ const Navigation = () => {
     <div className="sidebar">
       <div className="id">
         <div className="idContent">
-          <img src="./media/billGates.jpg" alt="profil-pic" />
+          <img src="./media/ArnaudCV.png" alt="profil-pic" />
           <h3>Arnaud Jouanne</h3>
         </div>
       </div>
@@ -44,7 +44,7 @@ const Navigation = () => {
         <ul>
           <li>
             <a
-              href="https://www.google.com"
+              href="https://www.linkedin.com/in/arnaud-jouanne/"
               target="_blank"
               rel="noopener noreferrer"
             >
@@ -53,7 +53,7 @@ const Navigation = () => {
           </li>
           <li>
             <a
-              href="https://www.google.com"
+              href="https://github.com/Nonos2k12"
               target="_blank"
               rel="noopener noreferrer"
             >
