@@ -1,7 +1,13 @@
 import React from "react";
+import Navigation from "../components/Navigation";
 
 const Portfolio = () => {
-  return <div>Le Portfolio</div>;
+  return (
+    <div>
+      <Navigation />
+      Le Portfolio
+    </div>
+  );
 };
 
 export default Portfolio;

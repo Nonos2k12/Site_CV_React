@@ -1,7 +1,13 @@
 import React from "react";
+import Navigation from "../components/Navigation";
 
 const Knowledges = () => {
-  return <div>Page Knowledge</div>;
+  return (
+    <div>
+      <Navigation />
+      Page Knowledge
+    </div>
+  );
 };
 
 export default Knowledges;
