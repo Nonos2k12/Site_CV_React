@@ -61,14 +61,6 @@ const Contact = () => {
               <h4>Github</h4>
               <i className="fab fa-github"></i>
             </a>
-            <a
-              href="https://www.google.com"
-              target="_blank"
-              rel="noopener noreferrer"
-            >
-              <h4>Twitter</h4>
-              <i className="fab fa-twitter"></i>
-            </a>
           </ul>
         </div>
       </div>
