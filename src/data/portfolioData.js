@@ -6,7 +6,7 @@ export const portfolioData = [
     languagesIcons: ["fab fa-js", "fab fa-css3-alt", "fab fa-react"],
     source: "https://github.com/Nonos2k12/instagram_clone",
     info: "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Accusamus laboriosam aut nihil? Possimus, id facilis dignissimos repudiandae modi dolorum ea accusantium, veritatis debitis odio eveniet quos incidunt eaque nemo eius perferendis consequatur? Lorem ipsum, dolor sit amet consectetur adipisicing elit. Accusamus laboriosam aut nihil? Possimus, id facilis dignissimos repudiandae modi dolorum ea accusantium.",
-    picture: "./media/project1.JPG",
+    picture: "./media/project1.png",
   },
   {
     id: 2,
@@ -28,12 +28,12 @@ export const portfolioData = [
   },
   {
     id: 4,
-    name: "laboriosam.fr",
-    languages: ["javascript", "php", "react"],
-    languagesIcons: ["fab fa-js", "fab fa-php", "fab fa-react"],
-    source: "http://www.github.com",
+    name: "3D Bell-Viewer",
+    languages: ["javascript", "css"],
+    languagesIcons: ["fab fa-js", "fab fa-css3-alt"],
+    source: "https://github.com/Nonos2k12/Babylon-JS-3D-Bell-Viewer",
     info: "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Accusamus laboriosam aut nihil? Possimus, id facilis dignissimos repudiandae modi dolorum ea accusantium, veritatis debitis odio eveniet quos incidunt eaque nemo eius perferendis consequatur? Lorem ipsum, dolor sit amet consectetur adipisicing elit. Accusamus laboriosam aut nihil? Possimus, id facilis dignissimos repudiandae modi dolorum ea accusantium.",
-    picture: "./media/project4.JPG",
+    picture: "./media/project4.png",
   },
   {
     id: 5,
