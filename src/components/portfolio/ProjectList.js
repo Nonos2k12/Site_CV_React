@@ -10,8 +10,9 @@ export default class ProjectList extends Component {
       { id: 2, value: "css" },
       { id: 3, value: "php" },
       { id: 4, value: "react" },
+      { id: 5, value: "tous" },
     ],
-    selectedRadio: "javascript",
+    selectedRadio: "tous",
   };
 
   handleRadio = (event) => {
