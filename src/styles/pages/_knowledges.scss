@@ -23,7 +23,7 @@
       font-size: 1.9rem;
       margin-bottom: 1rem;
       font-family: $font-2;
-      color: $color-5;
+      color: $color-6;
       text-transform: uppercase;
     }
 
@@ -51,7 +51,7 @@
         font-size: 0.95rem;
         display: flex;
         justify-content: space-between;
-        color: $white;
+        color: $black;
 
         span {
           width: 36%;
@@ -125,11 +125,11 @@
       }
       h4 {
         font-size: 1.5rem;
-        color: $color-5;
+        color: $color-6;
       }
       h5 {
         font-size: 1.2rem;
-        color: $color-3;
+        color: $color-6;
         padding: 0.5rem 0 0.5rem 1rem;
       }
       li {
@@ -164,7 +164,7 @@
           display: grid;
 
           i {
-            color: $color-5;
+            color: $color-6;
             padding-right: 5px;
           }
         }
@@ -181,7 +181,7 @@
         li {
           i {
             position: absolute;
-            color: $color-5;
+            color: $color-6;
           }
           span {
             position: absolute;
