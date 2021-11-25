@@ -10,7 +10,7 @@ export const portfolioData = [
   },
   {
     id: 2,
-    name: "Social Network (Twitter's like)",
+    name: "Social Network (Twitter like)",
     languages: ["tous", "javascript", "css", "react"],
     languagesIcons: ["fab fa-js", "fab fa-css3-alt", "fab fa-react"],
     source: "https://github.com/Nonos2k12/Projet-Doranco-RS",
