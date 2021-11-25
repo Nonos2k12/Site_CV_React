@@ -5,7 +5,7 @@ export const portfolioData = [
     languages: ["tous", "javascript", "css", "react"],
     languagesIcons: ["fab fa-js", "fab fa-css3-alt", "fab fa-react"],
     source: "https://github.com/Nonos2k12/instagram_clone",
-    info: "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Accusamus laboriosam aut nihil? Possimus, id facilis dignissimos repudiandae modi dolorum ea accusantium, veritatis debitis odio eveniet quos incidunt eaque nemo eius perferendis consequatur? Lorem ipsum, dolor sit amet consectetur adipisicing elit. Accusamus laboriosam aut nihil? Possimus, id facilis dignissimos repudiandae modi dolorum ea accusantium.",
+    info: "This project uses React (custom hooks, useContext, useState, useEffect, useRef), Firebase (Firestore/auth) and Tailwind CSS. This React project has multiple pages: login, sign up, dashboard (to view/like/comment on photos), and user profiles. The sign-in page connects to Firebase when a user tries to sign in, and when a user signs up, Firebase auth is used to store the user in the Firebase auth database.",
     picture: "./media/project1.png",
   },
   {
@@ -14,7 +14,7 @@ export const portfolioData = [
     languages: ["tous", "javascript", "css", "react"],
     languagesIcons: ["fab fa-js", "fab fa-css3-alt", "fab fa-react"],
     source: "https://github.com/Nonos2k12/Projet-Doranco-RS",
-    info: "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Accusamus laboriosam aut nihil? Possimus, id facilis dignissimos repudiandae modi dolorum ea accusantium, veritatis debitis odio eveniet quos incidunt eaque nemo eius perferendis consequatur? Lorem ipsum, dolor sit amet consectetur adipisicing elit. Accusamus laboriosam aut nihil? Possimus, id facilis dignissimos repudiandae modi dolorum ea accusantium.",
+    info: "This project uses React, MongoDB, Express, NodeJS, Redux, JWT and SCSS. This React project has multiple pages: login, sign up, dashboard, home and user profiles. The sign-in page connects to a MongoDB database when a user tries to sign in, and when a user signs up. A JSON Web Token is used to identify the user in the MongoDB database.",
     picture: "./media/project2.png",
   },
   {
@@ -48,7 +48,7 @@ export const portfolioData = [
     id: 6,
     name: "test.io",
     languages: ["tous", "javascript", "react", "css"],
-    languagesIcons: ["fab fa-js", "fab fa-react", "fab fa-css3-alt"],
+    languagesIcons: ["fab fa-js", "fab fa-vuejs", "fab fa-css3-alt"],
     source: "http://www.github.com",
     info: "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Accusamus laboriosam aut nihil? Possimus, id facilis dignissimos repudiandae modi dolorum ea accusantium, veritatis debitis odio eveniet quos incidunt eaque nemo eius perferendis consequatur? Lorem ipsum, dolor sit amet consectetur adipisicing elit. Accusamus laboriosam aut nihil? Possimus, id facilis dignissimos repudiandae modi dolorum ea accusantium.",
     picture: "./media/project6.JPG",
